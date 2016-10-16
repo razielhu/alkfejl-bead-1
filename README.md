@@ -2,7 +2,7 @@
 
 # Alkalmazások fejlesztése beadandó
 
- ##### Solymosi László, CQ0GI8
+ Solymosi László, CQ0GI8
 
 
 ## Választott feladat leírása
