@@ -1,6 +1,6 @@
 
 
-# Alkalmazások fejlesztése beadandó
+# Alkalmazások fejlesztése beadandó, 1. feladat
 
  Solymosi László, CQ0GI8
 
